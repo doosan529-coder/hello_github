@@ -1,4 +1,8 @@
 HEllo Git
 Change README
 master branch
+<<<<<<< HEAD
 master branch
+=======
+branch-b branch
+>>>>>>> branch-b
